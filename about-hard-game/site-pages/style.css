@@ -1,0 +1,20 @@
+.test{
+    color: rebeccapurple;
+}
+
+.red{
+    color: rgb(189, 1, 1);
+    font-size: xx-large;     
+}
+
+.center{
+    padding-left: 250px;
+}
+
+.font25{
+    font-size: 25px;
+}
+
+.font35{
+    font-size: 35px;
+}
